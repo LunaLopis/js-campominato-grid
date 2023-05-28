@@ -1,3 +1,25 @@
+1. creo main con id grid nell'html
+2. recupero elemento nel js.
+2.1 ciclo for per difinire numero caselle griglia, (8x8 i<64)
+3. funzione per creare singola casella, con all'interno la variabile createElement div.
+3.1 classList .add 'square' (css per le caselle)
+3.2 return square
+3.4  let square create element dento function 
+3.5 aggiungo event listener click al quadratino  
+3.6 grid append square.
+
+
+
+
+
+
+
+
+
+
+
+
+
 Consegna
 L'utente clicca su un bottone che genererà una griglia di gioco quadrata.
 Ogni cella ha un numero progressivo, da 1 a 100. Ci saranno quindi 10 caselle per ognuna delle 10 righe. Quando l'utente clicca su ogni cella, la cella cliccata si colora di azzurro ed emetto un messaggio in console con il numero della cella cliccata.
