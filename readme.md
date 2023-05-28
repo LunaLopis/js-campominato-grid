@@ -11,6 +11,16 @@
 
 
 
+Bonus:
+1. creo una select per le diverse grandezze con value 100, 81, 49.
+2. recupero select nel js dentro la function.
+3. recupero con parseint la value di grid dentro la function.
+4. richiamo grid come stringa vuota.
+5. ricopio esercizio base.
+6. creo classi css per le diverse griglie e le applico dinamicamente nel js.
+
+
+
 
 
 
