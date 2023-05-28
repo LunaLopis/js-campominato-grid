@@ -7,6 +7,7 @@
 3.4  let square create element dento function 
 3.5 aggiungo event listener click al quadratino  
 3.6 grid append square.
+4. creo il pulsante per generare la griglia ed inserisco ciclo griglia nella function del bottone.
 
 
 
